@@ -19,10 +19,6 @@ Alreadys set up to read a single column of words from a .csv file.
 2. Input any word
 3. Program will output the top-10 closest matches.
 
-## Authors
-
-* **Dylan Francis** - (https://github.com/Homeboyfreezy)
-
 ## Acknowledgments
 
 * https://www.geeksforgeeks.org/bk-tree-introduction-implementation/
