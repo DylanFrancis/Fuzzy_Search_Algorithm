@@ -11,13 +11,13 @@ Developed with Intellij
 
 Requires a dictionary of words. 
 
-Alreadys set up to read a single column of words from a .csv file.
+Reads a single column of words from a .csv file.
 
 ## Running the tests
 
-1. Read words.
+1. Read words
 2. Input any word
-3. Program will output the top-10 closest matches.
+3. Program will output the top-10 closest matches
 
 ## Acknowledgments
 
